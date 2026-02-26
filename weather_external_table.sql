@@ -1,3 +1,4 @@
+-- Dialect: GoogleSQL (BigQuery)
 -- Description: This script defines an external table mapping to a Google Sheet and performs weather analysis across different states.
 
 DEFINE TABLE SampleWeatherData (
